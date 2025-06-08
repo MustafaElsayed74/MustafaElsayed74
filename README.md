@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa Elsayed</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [CareFlow [Smart HealthCare Management System]](https://github.com/0x0desha74/Smart-HealthCare-Management-System)
+- 🔭 I’m currently working on [Ticketizer [Event-Ticket-Platform]](https://github.com/0x0desha74/Event-Ticket-Platform)
 
 - 💬 Ask me about **.Net, Spring Boot**
 
 - 📫 How to reach me **demustafa74@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1diN6gyyauXi_3L0kj8YsZBBrCgHFYSDZ/view?usp=drive_link](https://drive.google.com/file/d/1diN6gyyauXi_3L0kj8YsZBBrCgHFYSDZ/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1diN6gyyauXi_3L0kj8YsZBBrCgHFYSDZ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
