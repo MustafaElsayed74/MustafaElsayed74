@@ -83,7 +83,7 @@ As a software engineer, I enjoy solving real-world problems by writing simple, c
 
 - 📧 Email: [demustafa74@gmail.com](mailto:demustafa74@gmail.com)  
 - 👤 LinkedIn: [Mustafa Elsayed](https://www.linkedin.com/in/0x0desha74/)  
-- 📄 My CV: [View Here](https://drive.google.com/file/d/152_jEjDPU7MynPLEK508G1E2p1kTDS6C/view?usp=drive_link){:target="_blank"}
+- 📄 My CV: <a href="https://drive.google.com/file/d/152_jEjDPU7MynPLEK508G1E2p1kTDS6C/view?usp=drive_link" target="_blank">View CV</a>
 
 ---
 
