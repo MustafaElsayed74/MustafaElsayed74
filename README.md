@@ -31,7 +31,7 @@ Hey! I'm Mustafa, a dedicated backend developer with a strong foundation in both
 
 ## 💼 Projects
 
-### [SmartHealthCare Management System](https://github.com/0x0desha74/SmartHealthCare-Managment-System)
+### [SmartHealthCare Management System](https://github.com/0x0desha74/Smart-HealthCare-Management-System)
 
 - **Role**: Backend Developer  
 - **Description**: A system to manage patient records, appointments, and medical services with authentication and multi-role support.  
@@ -45,14 +45,14 @@ Hey! I'm Mustafa, a dedicated backend developer with a strong foundation in both
 - **Technologies**: Spring Boot, PostgreSQL, JWT, Keycloak, Docker, React  
 - **Features**: Role-based security, ticket availability tracking, event listing, secure user registration
 
-### [Library Management System](https://github.com/0x0desha74/Library-Managment-System)
+### [Bookly - Library Management System](https://github.com/0x0desha74/Library-Management-System)
 
 - **Role**: Backend Developer  
 - **Description**: API to manage books, borrowing records, and user access in a structured library setup.  
 - **Technologies**: ASP.NET Core Web API, SQL Server, AutoMapper  
 - **Features**: Book CRUD operations, borrow tracking, admin/member roles
 
-### [Talabat.API](https://github.com/0x0desha74/Talabat.API)
+### [Talabat.API - E-commerce](https://github.com/0x0desha74/Talabat.API)
 
 - **Role**: Backend Developer  
 - **Description**: E-commerce backend API that simulates online food ordering and delivery workflows.  
@@ -70,9 +70,9 @@ Hey! I'm Mustafa, a dedicated backend developer with a strong foundation in both
 
 ## 📈 GitHub Highlights
 
-- ✨ **[SmartHealthCare Management](https://github.com/0x0desha74/SmartHealthCare-Managment-System)** - Patient and clinic management system  
-- ✨ **[Ticketizer](https://github.com/0x0desha74/Event-Ticket-Platform)** - Full-featured event system  
-- ✨ **[Library System](https://github.com/0x0desha74/Library-Managment-System)** - Manage library activities and users
+- ✨ **[CareFlow - SmartHealthCare System](https://github.com/0x0desha74/Smart-HealthCare-Management-System)** - Patient and clinic management system  
+- ✨ **[Ticketizer - Event Ticket Platform](https://github.com/0x0desha74/Event-Ticket-Platform)** - Full-featured event system  
+- ✨ **[Bookly - Library System](https://github.com/0x0desha74/Library-Management-System)** - Manage library activities and users
 
 ---
 
