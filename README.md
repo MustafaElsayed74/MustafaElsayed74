@@ -1,24 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mustafa Elsayed</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+# 🌟 Mustafa Elsayed | Software Engineer | .NET & Java
 
-- 🔭 I’m currently working on [Ticketizer [Event-Ticket-Platform]](https://github.com/0x0desha74/Event-Ticket-Platform)
+---
 
-- 💬 Ask me about **.Net, Spring Boot**
+Hey! I'm Mustafa, a dedicated backend developer with a strong foundation in both **.NET** and **Java** technologies. I'm passionate about **clean architecture**, building **scalable REST APIs**, and delivering **production-ready backend solutions**. I've completed internships at **Route** and **DEPI**, and I thrive in collaborative environments where growth and impact matter.
 
-- 📫 How to reach me **demustafa74@gmail.com**
+## 👨‍💻 About Me
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1diN6gyyauXi_3L0kj8YsZBBrCgHFYSDZ/view?usp=drive_link)
+- 🎓 Graduated from the Digital Egypt Pioneers Program (DEPI) & Route Internship  
+- 📚 Studied Software Engineering & Computer Science Foundations  
+- 🌍 Based in Egypt  
+- ✨ Focused on scalable **backend systems**, **security**, and **team collaboration**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0x0desha74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x0desha74" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0x0desha74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0x0desha74" height="30" width="40" /></a>
-<a href="https://fb.com/0x0desha74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0x0desha74" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🛠️ Technical Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x0desha74&show_icons=true&locale=en&layout=compact" alt="0x0desha74" /></p>
+| **Category**              | **Skills**                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| **Languages**             | C#, Java, JavaScript, C, Python                                           |
+| **Backend Frameworks**    | ASP.NET Core, Spring Boot                                                 |
+| **Databases**             | PostgreSQL, SQL Server, MySQL                                             |
+| **Frontend**              | Angular, HTML, CSS, JavaScript, Bootstrap                                 |
+| **Tools**                 | Git, GitHub, Postman, Swagger, Visual Studio, IntelliJ IDEA, Linux, Docker|
+| **Architecture & Design** | Clean Architecture, Onion Architecture, SOLID, Design Patterns            |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x0desha74&" alt="0x0desha74" /></p>
+---
+
+## 💼 Projects
+
+### [SmartHealthCare Management System](https://github.com/0x0desha74/SmartHealthCare-Managment-System)
+
+- **Role**: Backend Developer  
+- **Description**: A system to manage patient records, appointments, and medical services with authentication and multi-role support.  
+- **Technologies**: ASP.NET Core Web API, Identity, SQL Server, AutoMapper, JWT, Stripe Integration  
+- **Features**: Role-based access, patient and doctor records, appointment scheduling, payment integration
+
+### [Ticketizer – Event Ticket Platform](https://github.com/0x0desha74/Event-Ticket-Platform)
+
+- **Role**: Full Stack Developer  
+- **Description**: A scalable event ticket booking platform supporting secure event creation, booking, and management.  
+- **Technologies**: Spring Boot, PostgreSQL, JWT, Keycloak, Docker, React  
+- **Features**: Role-based security, ticket availability tracking, event listing, secure user registration
+
+### [Library Management System](https://github.com/0x0desha74/Library-Managment-System)
+
+- **Role**: Backend Developer  
+- **Description**: API to manage books, borrowing records, and user access in a structured library setup.  
+- **Technologies**: ASP.NET Core Web API, SQL Server, AutoMapper  
+- **Features**: Book CRUD operations, borrow tracking, admin/member roles
+
+### [Talabat.API](https://github.com/0x0desha74/Talabat.API)
+
+- **Role**: Backend Developer  
+- **Description**: E-commerce backend API that simulates online food ordering and delivery workflows.  
+- **Technologies**: ASP.NET Core, Stripe, Identity, JWT, EF Core, SQL Server  
+- **Features**: Product catalog, cart/order management, payment processing, user roles
+
+### [GameZone (CRUD Games Platform)](https://github.com/0x0desha74/GameZone)
+
+- **Role**: Full Stack Developer  
+- **Description**: Web platform to manage a catalog of video games, supporting admin and user operations.  
+- **Technologies**: ASP.NET MVC, Entity Framework, LINQ  
+- **Features**: Game listing, admin dashboard, CRUD operations
+
+---
+
+## 📈 GitHub Highlights
+
+- ✨ **[SmartHealthCare Management](https://github.com/0x0desha74/SmartHealthCare-Managment-System)** - Patient and clinic management system  
+- ✨ **[Ticketizer](https://github.com/0x0desha74/Event-Ticket-Platform)** - Full-featured event system  
+- ✨ **[Library System](https://github.com/0x0desha74/Library-Managment-System)** - Manage library activities and users
+
+---
+
+## ✨ What Drives Me
+
+As a software engineer, I enjoy solving real-world problems by writing simple, clean, and maintainable code. During my DEPI internship, I gained hands-on experience building backend applications and working on real-world systems. I'm always looking to learn more, grow my skills, and work on meaningful projects that make a difference.
+
+---
+
+## 💍 Contact Me
+
+- 📧 Email: [demustafa74@gmail.com](mailto:demustafa74@gmail.com)  
+- 👤 LinkedIn: [Mustafa Elsayed](https://www.linkedin.com/in/0x0desha74/)  
+- 📄 My CV: [View Here](https://drive.google.com/file/d/152_jEjDPU7MynPLEK508G1E2p1kTDS6C/view?usp=drive_link){:target="_blank"}
+
+---
+
+*I'm open to collaborations, internships, or software engineering roles where I can grow and contribute.*
