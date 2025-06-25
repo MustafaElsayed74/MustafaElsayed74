@@ -4,6 +4,9 @@
 
 Hey! I'm Mustafa, a dedicated backend developer with a strong foundation in both **.NET** and **Java** technologies. I'm passionate about **clean architecture**, building **scalable REST APIs**, and delivering **production-ready backend solutions**. I've completed internships at **Route** and **DEPI**, and I thrive in collaborative environments where growth and impact matter.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/0x0desha74/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/0x0desha74)
+
 ## 👨‍💻 About Me
 
 - 🎓 Graduated from the Digital Egypt Pioneers Program (DEPI) & Route Internship  
