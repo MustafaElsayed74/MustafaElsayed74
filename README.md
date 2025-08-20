@@ -1,4 +1,4 @@
-# 🌟 Mustafa Elsayed | Software Engineer | Backend Developer | Java & .NET
+# 🌟 Mustafa Elsayed | Software Engineer | Backend | Java & .NET
 
 ---
 
